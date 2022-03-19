@@ -66,9 +66,9 @@ The emiting of the Thomas High school ninth grade scores and affected the follow
 
   - Scores by school type
        - No changes were seen after rounding
-      #### Table 14. Scores by School Type Original 
+      #### Table 15. Scores by School Type Original 
       ![scores by school type 1](https://user-images.githubusercontent.com/57120024/159136130-c9e92dd2-7436-4532-961e-cd343b1fe0cb.png)
-      #### Table 15. Scores by School Type Updated
+      #### Table 16 Scores by School Type Updated
       ![scores by school type 2](https://user-images.githubusercontent.com/57120024/159136141-0a6be767-60b6-46bd-ad25-fea21f0cb5a5.png)
 
 ## Summary
